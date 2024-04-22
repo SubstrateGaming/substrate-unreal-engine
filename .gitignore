@@ -72,6 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-# libSubstrate build artifacts
-Plugins/PolkadotSDK/Source/PolkadotSDK/Windows-x64
