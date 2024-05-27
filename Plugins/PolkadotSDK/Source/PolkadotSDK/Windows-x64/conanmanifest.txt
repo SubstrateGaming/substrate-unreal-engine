@@ -1,0 +1,25 @@
+1713786372
+conaninfo.txt: a53a0b8befe39c7ac1e7100237e52762
+include/substrate/account.h: cef2110018083d6a5e4c36714eae4994
+include/substrate/base58.h: 1e557c2ae1f9965047458bc5ca0906bd
+include/substrate/client.h: 37409f00fbefb6782f24c7f7f84bc873
+include/substrate/crypto.h: dfbbfd9e4fe4bf799bff0473f9a53314
+include/substrate/decoder.h: 42a0d6960e116563cd0935f751ccd077
+include/substrate/encoder.h: 8d1d71fb2ec971ac5c5ccfc9c53b7e84
+include/substrate/hash.h: ef45a6bb66f1406a7114421844b8c713
+include/substrate/hex.h: 6596107a4dcf95bff78eb84303d80f86
+include/substrate/logger.h: ee40108c9be0abe6c3f5be0745c2d951
+include/substrate/mnemonic.h: 596097ac436b62e13a46e86f29f95ffe
+include/substrate/rpc/rpc_author.h: 31930bee38b88ec4680ce269eb7b3b24
+include/substrate/rpc/rpc_chain.h: 1903eecbbcaa9c08714965c11ccca67f
+include/substrate/rpc/rpc_payment.h: 4881765426c3b40a3d08e31a1049c2ee
+include/substrate/rpc/rpc_state.h: ed0abee2afd5f09eaa4e1673b67d35df
+include/substrate/rpc/rpc_system.h: 7c4ae21f7d23b43027b46b230a7e8179
+include/substrate/rpc_client.h: 017bb06be9b6445ed26adc9c543356df
+include/substrate/rpc_types.h: bd160d19390c998580d9e5c74d9c9bc2
+include/substrate/substrate.h: 25e81ffbb8d1f20a9a19a6ad2f29ee85
+include/substrate/substrate_export.h: 2de2ca29675ac7da732bd68ef086a8a7
+include/substrate/types.h: 8765bc38462585b36adc75464cb1ddbf
+include/substrate/wrap_message.h: 92bc66e25b37ef075d50251b1dceec07
+lib/substrate.dll: e4215b0ce4c3304644db452755999528
+lib/substrate.lib: d1665b983e82190a5af9ea1a40e7024c
